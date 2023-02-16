@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Zedkaere/the-first.git/static/css/main.4fb21e97.css",
+    "main.js": "/Zedkaere/the-first.git/static/js/main.d87cb16b.js",
+    "static/js/787.1fc06c79.chunk.js": "/Zedkaere/the-first.git/static/js/787.1fc06c79.chunk.js",
+    "static/media/desert.jpg": "/Zedkaere/the-first.git/static/media/desert.d49f0778e7e8f4b1f77b.jpg",
+    "static/media/logo.svg": "/Zedkaere/the-first.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zedkaere/the-first.git/index.html",
+    "main.4fb21e97.css.map": "/Zedkaere/the-first.git/static/css/main.4fb21e97.css.map",
+    "main.d87cb16b.js.map": "/Zedkaere/the-first.git/static/js/main.d87cb16b.js.map",
+    "787.1fc06c79.chunk.js.map": "/Zedkaere/the-first.git/static/js/787.1fc06c79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb21e97.css",
+    "static/js/main.d87cb16b.js"
+  ]
+}
